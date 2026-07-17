@@ -8,7 +8,7 @@ public class helloController {
 
     @GetMapping("/")
     public String home() {
-        return "Student Management System Backend is Running!";
+        return "apki aplication chal rahi hai!";
     }
 
     @GetMapping("/hello")
